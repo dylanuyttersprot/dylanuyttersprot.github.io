@@ -1480,9 +1480,6 @@ a {
     left: -1rem;
   }
 }
-.cid-srndJmmN6b {
-  background-color: #ffffff;
-}
 .cid-srndJmmN6b .image-wrap img {
   width: 100%;
 }
@@ -1490,37 +1487,29 @@ a {
   .cid-srndJmmN6b .image-wrap img {
     display: block;
     margin: auto;
-    width: 80%;
+    width: 100%;
   }
 }
-.cid-srbwl6tFP4 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-2-1920x1272.jpeg");
+.cid-srsHjSZQWt {
+  background-image: url("../../../assets/images/light-color-background-images-for-website-top-hd-images-for-free-background-for-website-in-light-color-1-1024x640.jpg");
 }
-.cid-srbwl6tFP4 .video-wrapper iframe {
+@media (max-width: 991px) {
+  .cid-srsHjSZQWt .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-srsHjSZQWt img {
   width: 100%;
 }
-.cid-srbwl6tFP4 .mbr-section-title,
-.cid-srbwl6tFP4 .mbr-description {
-  text-align: center;
-}
 @media (min-width: 992px) {
-  .cid-srbwl6tFP4 .text-wrapper {
+  .cid-srsHjSZQWt .text-wrapper {
     padding: 2rem;
   }
-}
-.cid-srbwl6tFP4 .mbr-text {
-  color: #000000;
 }
 .cid-srboEefdDc {
   padding-top: 6rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/light-color-wallpaper-elegant-hd-light-pink-backgrounds-combination-of-light-color-wallpaper-1920x1080.jpg");
-}
-.cid-srboEefdDc .mbr-overlay {
-  background: #fafafa;
-  opacity: 0;
+  background-color: #fafafa;
 }
 .cid-srboEefdDc img,
 .cid-srboEefdDc .item-img {
@@ -1540,7 +1529,7 @@ a {
 .cid-srboEefdDc .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1565,7 +1554,7 @@ a {
   margin-top: auto !important;
 }
 .cid-srboEefdDc .mbr-section-title {
-  color: #232323;
+  color: #000000;
 }
 .cid-srboEefdDc .mbr-text,
 .cid-srboEefdDc .mbr-section-btn {
@@ -1576,39 +1565,6 @@ a {
 }
 .cid-srboEefdDc .item-subtitle {
   text-align: left;
-}
-.cid-srfEvv2vAJ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-srfEvv2vAJ .image-wrapper {
-  display: flex;
-  align-items: center;
-}
-.cid-srfEvv2vAJ .card-wrapper {
-  margin-bottom: 2rem;
-  display: flex;
-  border-radius: 4px;
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-srfEvv2vAJ .card-wrapper {
-    padding: 1rem 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-srfEvv2vAJ .card-wrapper {
-    padding: 2rem 4rem;
-  }
-}
-.cid-srfEvv2vAJ .mbr-iconfont {
-  font-size: 2rem;
-  padding-right: 1.5rem;
-  color: #6592e6;
-}
-.cid-srfEvv2vAJ P {
-  color: #4479d9;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
@@ -1678,25 +1634,14 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-s48MCQYojq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/792630d0ffeee67dda34f51c6a2546f3-852x480.jpg");
-}
-.cid-s48MCQYojq .mbr-section-title {
+.cid-srsxFHnKX3 .mbr-section-title {
+  color: #ffffff;
   text-align: center;
 }
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
-  color: #232323;
+.cid-srsxFHnKX3 .mbr-text,
+.cid-srsxFHnKX3 .mbr-section-btn {
+  color: #ffffff;
   text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
-    text-align: center;
-  }
 }
 .cid-srbdKkgooM {
   background-image: url("../../../assets/images/2021-03-09-2-733x477.png");
@@ -1716,19 +1661,15 @@ a {
 }
 .cid-srbdKkgooM .mbr-text {
   text-align: left;
+  color: #000000;
 }
 .cid-srcvNYd279 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-srcvNYd279 .row {
-  margin-left: 0;
-  margin-right: 0;
+  background-image: url("../../../assets/images/446978-1500x2668.png");
 }
 .cid-srcvNYd279 .item {
-  padding-left: 0;
-  padding-right: 0;
+  padding-bottom: 2rem;
 }
 .cid-srcvNYd279 .item-wrapper {
   height: 100%;
@@ -1984,7 +1925,7 @@ a {
 .cid-srcJnTpOJc {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/250x6q-2000x1249.jpg");
+  background-image: url("../../../assets/images/5cbe999429cdb5144a3d6357a48e1ef9-9-1680x1050.jpeg");
 }
 @media (max-width: 991px) {
   .cid-srcJnTpOJc .image-wrapper {
@@ -2000,18 +1941,18 @@ a {
   }
 }
 .cid-srcJnTpOJc .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-srcJnTpOJc .mbr-text {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-srcJnTpOJc .mbr-description {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-srhwbi4Hqe {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/792630d0ffeee67dda34f51c6a2546f3-852x480.jpg");
+  background-image: url("../../../assets/images/papers.co-at43-apple-mac-white-logo-minimal-art-illustration-41-iphone-wallpaper-1125x2436.jpg");
 }
 .cid-srhwbi4Hqe .item {
   padding-bottom: 2rem;
@@ -2263,6 +2204,13 @@ a {
 }
 .cid-srhwbi4Hqe H6 {
   text-align: center;
+  color: #000000;
+}
+.cid-srhwbi4Hqe H3 {
+  color: #000000;
+}
+.cid-srhwbi4Hqe H4 {
+  color: #000000;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
